@@ -2,7 +2,8 @@
   "name": "app",
   "version": "0.0.0",
   "engines": {
-    "node": "14.x"
+    "node": "14.x",
+    "yarn": "2.x"
   },
   "private": true,
   "main": "index.js",
