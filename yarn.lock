@@ -3596,6 +3596,7 @@ __metadata:
     webpack-cli: ^4.7.0
     webpack-dev-server: ^3.11.2
     webpack-manifest-plugin: ^3.1.1
+    yarn: 1.22.18
   languageName: unknown
   linkType: soft
 
@@ -12879,6 +12880,16 @@ typescript@^4.2.4:
     y18n: ^5.0.5
     yargs-parser: ^20.2.2
   checksum: a79ce1f043021cd645de1ffebb6149541d382ba68f4a6b5eca5d2ad65af51893371bbd78e240dc3b6cf0cbb419511ba5bda715dec992e4266e6863ea49f14feb
+  languageName: node
+  linkType: hard
+
+"yarn@npm:1.22.18":
+  version: 1.22.18
+  resolution: "yarn@npm:1.22.18"
+  bin:
+    yarn: bin/yarn.js
+    yarnpkg: bin/yarn.js
+  checksum: 9ecc28b149ddd94d0341f34496bf0c6c13e9150c20ce01c34746ef9110e8bf9e88a6dfbb862567fc91625a41f0422dbebd8fae987fb767dbfe8f29cad52baa41
   languageName: node
   linkType: hard
 
